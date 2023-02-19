@@ -1,0 +1,20 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://example.org/about/</loc><lastmod>2023-02-16T23:19:55&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/emoji/</loc><lastmod>2023-02-15T22:22:00&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2023-02-15T22:22:00&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/posts/first_post/</loc><lastmod>2023-02-15T22:22:00&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2023-02-15T22:22:00&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/</loc><lastmod>2023-02-15T22:22:00&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/friendship/</loc><lastmod>2022-07-29T22:15:04&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/posts/friendship_underrated/</loc><lastmod>2022-07-29T22:15:04&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/humans/</loc><lastmod>2022-07-29T22:15:04&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/business/</loc><lastmod>2022-01-17T21:48:05&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/technology/</loc><lastmod>2022-01-17T21:48:05&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/posts/commercial_tech_failures/</loc><lastmod>2022-01-17T21:48:05&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/posts/perfect_numbers/</loc><lastmod>2021-12-28T21:36:43&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/history/</loc><lastmod>2021-12-28T21:36:43&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/math/</loc><lastmod>2021-12-28T21:36:43&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/categories/</loc></url></urlset>

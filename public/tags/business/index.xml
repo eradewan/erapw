@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>business - Tag - Era Dewan</title>
+        <link>http://example.org/tags/business/</link>
+        <description>business - Tag - Era Dewan</description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/business/" rel="self" type="application/rss+xml" /><item>
+    <title>The Commercial Failure of “Great” Technological Innovations</title>
+    <link>http://example.org/posts/commercial_tech_failures/</link>
+    <pubDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/commercial_tech_failures/</guid>
+    <description><![CDATA[Note from the author: This is adapted from MGMT237: Management of Technology Notes. I only wrote about the examples I found interesting. I wrote this during the first week of Spring 2022 semester.
+Why do promising technological innovations fail to create value? The challenge of technology entrepreneurship and firms is not so much coming up with great ideas or recognizing technological trends. The challenge is the commercialization the technology and create unique value for the customer.]]></description>
+</item>
+</channel>
+</rss>

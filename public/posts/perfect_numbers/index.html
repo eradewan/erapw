@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>A Complete Guide to Perfect Numbers - Era Dewan</title><meta name="Description" content="This is "><meta property="og:title" content="A Complete Guide to Perfect Numbers" />
+<meta property="og:description" content="Note from the author: I was bored during Winter Break 2021, so I just started reading about perfect numbers and compiled everything here. They are pretty cool because there are so many proofs related to them. The idea of studying “spoofs” (closely related numbers but not exactly perfect) is also valuable and could possibly be applied to other areas of study. Otherwise, they are effectively useless!
+One would be hard put to find a set of whole numbers with a more fascinating history and more elegant properties surrounded by greater depths of mystery—and more totally useless—than the perfect numbers." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/perfect_numbers/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2021-12-28T21:36:43+01:00" />
+<meta property="article:modified_time" content="2021-12-28T21:36:43+01:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="A Complete Guide to Perfect Numbers"/>
+<meta name="twitter:description" content="Note from the author: I was bored during Winter Break 2021, so I just started reading about perfect numbers and compiled everything here. They are pretty cool because there are so many proofs related to them. The idea of studying “spoofs” (closely related numbers but not exactly perfect) is also valuable and could possibly be applied to other areas of study. Otherwise, they are effectively useless!
+One would be hard put to find a set of whole numbers with a more fascinating history and more elegant properties surrounded by greater depths of mystery—and more totally useless—than the perfect numbers."/>
+<meta name="application-name" content="Era Dewan">
+<meta name="apple-mobile-web-app-title" content="Era Dewan"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="http://example.org/posts/perfect_numbers/" /><link rel="next" href="http://example.org/posts/commercial_tech_failures/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "A Complete Guide to Perfect Numbers",
+        "inLanguage": "",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/example.org\/posts\/perfect_numbers\/"
+        },"genre": "posts","keywords": "math, history","wordcount":  3076 ,
+        "url": "http:\/\/example.org\/posts\/perfect_numbers\/","datePublished": "2021-12-28T21:36:43+01:00","dateModified": "2021-12-28T21:36:43+01:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "Era Dewan"
+            },"description": ""
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('light' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'light' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Era Dewan">Era Dewan</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/about/"> About </a><a class="menu-item" href="/posts/"> Posts </a><a class="menu-item" href="/tags/"> Tags </a><span class="menu-item delimiter"></span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Era Dewan">Era Dewan</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/about/" title="">About</a><a class="menu-item" href="/posts/" title="">Posts</a><a class="menu-item" href="/tags/" title="">Tags</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a></div>
+    </div>
+</header><main class="main">
+                <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">Contents</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">A Complete Guide to Perfect Numbers</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel="author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Era Dewan</a></span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2021-12-28">2021-12-28</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;3076 words&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;15 minutes&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  data-kept="">
+                <div class="details-summary toc-title">
+                    <span>Contents</span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#what-are-perfect-numbers">What are Perfect Numbers?</a></li>
+        <li><a href="#the-sum-of-divisors-function">The Sum of Divisors Function</a></li>
+        <li><a href="#multiplicity-of-the-sum-of-divisors-function">Multiplicity of The Sum of Divisors Function</a></li>
+        <li><a href="#sum-of-divisors-for-prime-powers"><strong>Sum of Divisors for Prime Powers</strong></a></li>
+        <li><a href="#euclid-euler-theorem">Euclid-Euler Theorem</a></li>
+        <li><a href="#euclids-proof">Euclid’s Proof</a></li>
+        <li><a href="#eulers-proof">Euler’s Proof</a></li>
+        <li><a href="#perfect-even-numbers-are-triangular">Perfect Even Numbers are Triangular</a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#opn-spoofs">OPN Spoofs</a></li>
+        <li><a href="#descartess-number"><strong>Descartes&rsquo;s Number</strong></a></li>
+        <li><a href="#voights-number"><strong>Voight&rsquo;s Number</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p><em>Note from the author:</em> I was bored during Winter Break 2021, so I just started reading about perfect numbers and compiled everything here. They are pretty cool because there are so many proofs related to them. The idea of studying “spoofs” (closely related numbers but not exactly perfect) is also valuable and could possibly be applied to other areas of study. Otherwise, they are effectively useless!</p>
+<blockquote>
+<p>One would be hard put to find a set of whole numbers with a more fascinating history and more elegant properties surrounded by greater depths of mystery—and more totally useless—than the <strong>perfect numbers</strong>.</p>
+<p><strong>Martin Gardner</strong>, American Mathematician</p>
+</blockquote>
+<h3 id="what-are-perfect-numbers">What are Perfect Numbers?</h3>
+<hr>
+<p><strong>Perfect numbers</strong> are numbers such that the sum of its factors (including 1 but excluding itself) is equal to itself.</p>
+<p>Some Examples:</p>
+<ul>
+<li>Consider the number 6.
+<ul>
+<li>factors: 1, 2, 3, 6</li>
+<li>1 + 2 + 3 = 6</li>
+</ul>
+</li>
+<li>Consider the number 28.
+<ul>
+<li>factors: 1, 2, 4, 7, 14, 28</li>
+<li>1 + 2 + 4 + 7 + 14 = 28</li>
+</ul>
+</li>
+</ul>
+<p>Therefore, 6 and 28 are perfect numbers.</p>
+<h3 id="the-sum-of-divisors-function">The Sum of Divisors Function</h3>
+<hr>
+<p>Before we can work to understand proofs involving perfect numbers, we define the following terms.</p>
+<p>💡 The <strong>sum of divisors</strong> is the function $\sigma(n)=\sum_{d \mid n} d$ where $d \mid n$ refers to all positive divisors of $n$ including 1 and itself. For example, $\sigma(10)=\sum_{d \mid 10} d = 1 + 2 + 5 + 10 = 18$. With this definition, we can say that the number $N$ is <strong>perfect</strong> if $\sigma(N)= 2N$.</p>
+<p>Note that this is the same as our previous definition that the sum of the factors (or the proper divisors) of $N$ is equal to $N$. This is because the sum of divisors includes the original number in the sum while the definition of perfect numbers excludes it. Although it seems confusing to have two slightly differing definitions, the sum of divisors function has special properties, two of which we will prove.</p>
+<h3 id="multiplicity-of-the-sum-of-divisors-function">Multiplicity of The Sum of Divisors Function</h3>
+<p>💡 The sum of divisors function is multiplicative: $\sigma(mn)=\sigma(m)\sigma(n)$ whenever $gcd(m,n) = 1$ (in other words, $m$ and $n$ are co-prime or relatively prime, so they share no common factors).</p>
+<p><em>Proof:</em> Let $\sigma(m) = 1 + m_1 + m_2 + &hellip; + m_a$ and $\sigma(n) = 1 + n_1 + n_2 + &hellip; + n_b$ where where $m_i$ and $n_j$ represent all factors other than 1.</p>
+<p>We know that m and n are relatively prime integers, so they don&rsquo;t share any common factors except for 1.</p>
+<p>Let $M = \sigma(m) - 1 = m_1 + m_2 + &hellip; + m_a$</p>
+<p>and similarly, $N = \sigma(n) - 1 = n_1 + n_2 + &hellip; + n_b$.</p>
+<p>$M$ and $N$ represent the sum of all the factors of m that are not factors of n (in other words, $M$ and $N$ are sums made of up distinct numbers).</p>
+<p>Consider $mn$. Its factors will be 1, the factors of $m$ which are $m_i$, the factors of $n$ which are $n_i$, or they will be in the form $m_in_j$ since $m_i$ divides $m$ and $n_j$ divides  $n$.</p>
+<p>Therefore, $\sigma(mn) = 1 + M + N + MN$ since</p>
+<p>$MN = (m_1 + m_2 + &hellip; + m_a)(n_1 + n_2 + &hellip; + n_b) = \sum_{1 \leq i \leq a, 1 \leq j \leq b} m_in_j$.</p>
+<p>$\sigma(mn) = 1 + M + N + MN = (1+M)(1+N) = (1+ \sigma(m) - 1 )(1+ \sigma(n) - 1 ) = \sigma(m)\sigma(n)$.</p>
+<p>Therefore, we have proved the multiplicity of the sum of divisors function.</p>
+<h3 id="sum-of-divisors-for-prime-powers"><strong>Sum of Divisors for Prime Powers</strong></h3>
+<p>💡 For any prime number $p$ with a positive integer exponent $a$:                                      $\sigma(p^a) = 1 + p + p^2+ &hellip;+ p^a = \frac{p^{a+1}-1}{p-1}$.</p>
+<p><em>Proof:</em> $p^{a}$ is already in prime factorization since $p$ is prime, so all of its factors are just any combination of its prime factors. Therefore, its factors are $p^0, p^1, p^2, &hellip;, p^{a}$. Taking the sum, we can say $\sigma(p^a) = 1 + p + p^2 +&hellip;+p^a$. Notice that $1 + p + p^2 +&hellip;+p^{a}$ is a geometric series in the form $1 + x + x^2 + &hellip; + x^k = \sum_{i=0}^{k}x_i = \frac{x^{k+1}-1}{x-1}$ where $x = p$ and $k = a$. Therefore, $\sigma(p^a) =  1 + p + p^2 +&hellip;+p^{a} =  \frac{p^{a+1}-1}{p-1}$.</p>
+<p>These results will be useful in understanding the proof of the Euclid-Euler Theorem.</p>
+<h3 id="euclid-euler-theorem">Euclid-Euler Theorem</h3>
+<hr>
+<p>The Euclid-Euler theorem relates perfect numbers perfect numbers to.</p>
+<p>💡 <strong>Mersenne primes</strong> are prime numbers that are in the form $M_n = 2^n - 1$ for some integer $n$.</p>
+<p>The primes are named after 17th century monk Marin Mersenne, who worked with other notable figures like Descartes, Fermat, and Pascal. Mersenne studied these primes in 1644 and found that for $n = 2, 3, 5, 11, 13, 17, 19$ that $M_n = 2^n - 1$ is prime. He also conjectured that this was true for $n = 31, 67, 127, 257$, and it took over two centuries to confirm and test these numbers. The <a href="https://www.mersenne.org/primes/" target="_blank" rel="noopener noreffer ">search for more Mersenne primes</a> (named <em>Great Internet Mersenne Prime Search (GIMPS)</em>)  continues and the most recent one was <a href="https://www.mersenne.org/primes/press/M77232917.html" target="_blank" rel="noopener noreffer ">found in 2018</a>.</p>
+<p>💡 The <strong>Euclid-Euler Theorem</strong> states that an even number is perfect if and only if it has the form  $2^{p - 1} \times M_p$ , where $M_p = 2^p - 1$ is a Mersenne prime. With this theorem, the perfect number 6 is derived from $p = 2$ so that $2^{2-1} \times  M_2 = 2 \times 3 = 6$.</p>
+<h3 id="euclids-proof">Euclid’s Proof</h3>
+<p><strong>Euclid proved that if $2^p - 1$ is a Mersenne prime, then $N = 2^{p - 1} \times (2^p - 1)$ is an even perfect number.</strong> He proved this in his book of mathematical proofs <em>Elements.</em></p>
+<p>Proof: The only prime divisors of  $N$ are  $2^p - 1$ (since we are given that it is a Mersenne prime) and $2$ (since $2$ divides $2^{p - 1}$). $\sigma(N) = \sigma(2^{p - 1})\sigma(2^p - 1)$ by the multiplicity of the sum of divisors function.</p>
+<p>We now try to (1) ****find $\sigma(2^p - 1)$ and (2) find $\sigma(2^{p - 1})$.</p>
+<ol>
+<li>Since $2^p - 1$ is prime, it&rsquo;s only factors are 1 and $2^p - 1$. Therefore, $\sigma(2^p - 1) = 1 + 2^p - 1 = 2^p$.</li>
+<li>$2^{p-1}$ is a prime power (since 2 is prime), so we can use our result about the sum of divisors for prime powers: $\sigma(2^{p - 1}) = 1 + 2 + 2^2 +&hellip;+2^{p-1} = \frac{2^{p-1+1}-1}{2-1} = 2^p -1$.</li>
+</ol>
+<p>From our results (1) and (2) conclude:</p>
+<p>$\sigma(N) = \sigma(2^{p - 1})\sigma(2^p - 1) = 2^p \times (2^p -1) = 2 (2^{p - 1} \times (2^p - 1)) = 2N$, so N is an even perfect number.</p>
+<h3 id="eulers-proof">Euler’s Proof</h3>
+<p>Twenty centuries years later, <strong>Euler proved the other direction, that is, if $N = 2^{p - 1} \times (2^p - 1)$ is an even perfect number then $2^p - 1$ is a Mersenne prime.</strong></p>
+<p>Proof: We are given an even perfect number $N = 2^{p - 1} \times (2^p - 1)$. Let $m = (2^p - 1)$, so  $N = 2^{p - 1}m$. We know $m$ is odd since $2^p$ is even. Therefore, $2^{p - 1}$ and $m$ are relatively prime (since $2$ doesn&rsquo;t divide $m$).</p>
+<p>By the multiplicative property of the sum of divisors function:</p>
+<p>$\sigma(N) = \sigma(2^{p - 1}m) = \sigma(2^{p - 1})\sigma(m) = (2^p - 1)\sigma(m)$ (from the previous proof, result 2).</p>
+<p>Since $N$ is perfect, $\sigma(N) = 2N = 2(2^{p - 1}m) = 2^pm$. Therefore, $\sigma(N) = (2^p - 1)\sigma(m) = 2^pm$.</p>
+<p>Let $s = \sigma(m)$.</p>
+<ul>
+<li>$(2^p - 1)s = 2^pm$.</li>
+<li>$m = (2^p - 1)\frac{s}{2^p}$
+<ul>
+<li>Since $2^p$ doesn&rsquo;t divide $2^p - 1$, it has to divide $s$ since m is an integer. Let  $q = \frac{s}{2^p}$.</li>
+</ul>
+</li>
+<li>$m = (2^p - 1)q$</li>
+</ul>
+<p>Now we have two cases.</p>
+<ul>
+<li>$q = 1$
+<ul>
+<li>$m = (2^p - 1)q = (2^p - 1)$ so $N = 2^{p - 1}m = 2^{p - 1} \times (2^p - 1)$, which is Euclid&rsquo;s form.</li>
+<li>$q = \frac{s}{2^p} = 1$ implies that $s = 2^p$. Recall that $s = \sigma(m) = 2^p = (2^p -1 ) +1 = m + 1$. Since this is the sum of the divisors of m and the sum is $(m+1)$, that means that $m = 2^p - 1$ must be prime (since its only divisors are 1 and itself). We have proved the claim.</li>
+</ul>
+</li>
+<li>$q &gt; 1$
+<ul>
+<li>In this case, the factors of $m$ include (but are not limited to) $1, q, 2^n-1, m$ where $m = (2^p - 1)q$</li>
+<li>$s = \sigma(m) \geq 1 + q + 2^n-1 + (2^p - 1)q = 2^n(1+q)$ (note the greater than or equal to sign accounts for the fact that these may not be the only divisors in the sum)</li>
+<li>$\frac{m}{s} \leq \frac{(2^p - 1)q}{2^n(1+q)}$
+<ul>
+<li>$\frac{m}{s} \leq \frac{(2^p - 1)}{2^n}\frac{q}{q+1}$</li>
+<li>since  $\frac{q}{q+1} &lt; 1$, we know $\frac{m}{s} &lt; \frac{(2^p - 1)}{2^n}$</li>
+<li>However, we said $\sigma(N) = 2^pm = (2^p - 1)\sigma(m) = (2^p - 1)s$  which implies  $\frac{m}{s} = \frac{(2^p - 1)}{2^n}$, therefore we have a contradiction.</li>
+<li>We conclude the case $q &gt; 1$ is impossible.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>I only go over Euler&rsquo;s original proof above, but there are 5 other proofs of the same fact that can be found <a href="https://math.dartmouth.edu/~jvoight/notes/perfelem.pdf" target="_blank" rel="noopener noreffer ">here</a> under <em>Theorem 9</em>. This fact implies that the formula $N = 2^{p - 1} \times (2^p - 1)$ generates every even perfect number (that is, every even perfect number is of Euclid&rsquo;s type) and reduces the problem of finding even perfect numbers to finding Mersenne primes. It is unknown if there are a finite or infinite set of Mersenne primes, so equivalently by the above theorem, it is unknown whether the set of even perfect numbers is finite or infinite.</p>
+<h3 id="perfect-even-numbers-are-triangular">Perfect Even Numbers are Triangular</h3>
+<hr>
+<p>💡 A <strong>triangular number</strong> is a number that can be arranged in an equilateral triangle, which is equivalent to  $T_n = \sum_{k=1}^{n} k$.</p>
+<p>For example, 10 is triangular because $T_4 = \sum_{k=1}^{4} k = 1 + 2 + 3 + 4 = 10$ (see image below for how this sum forms a triangle).</p>
+<p><img
+        class="lazyload"
+        src="/svg/loading.min.svg"
+        data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/First_six_triangular_numbers.svg/1200px-First_six_triangular_numbers.svg.png"
+        data-srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/First_six_triangular_numbers.svg/1200px-First_six_triangular_numbers.svg.png, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/First_six_triangular_numbers.svg/1200px-First_six_triangular_numbers.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/First_six_triangular_numbers.svg/1200px-First_six_triangular_numbers.svg.png 2x"
+        data-sizes="auto"
+        alt="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/First_six_triangular_numbers.svg/1200px-First_six_triangular_numbers.svg.png"
+        title="A visualization of triangular numbers." /></p>
+<pre><code> A visualization of triangular numbers.
+</code></pre>
+<p>💡 If $N$ is an even perfect number, then $N$ is a triangular number.</p>
+<p><em>Proof:</em> By the definition of triangular numbers, $\sum_{k=1}^{m-1} k = \frac{1}{2} \times m(m-1)$  (by the <a href="https://www.cuemath.com/sum-of-natural-numbers-formula/" target="_blank" rel="noopener noreffer ">sum of natural numbers formula</a>). Note that the even perfect number:</p>
+<p>$N = 2^{p - 1} \times (2^p - 1) = (\frac{1}{2} \times 2) \times 2^{p - 1} \times (2^p - 1) = \frac{1}{2} \times 2^{p} \times (2^p - 1)$, which is equal to $\frac{1}{2} \times m(m-1)$for  $m = 2^p$. Therefore, $N$  is a triangular number.</p>
+<h1 id="unsolved-problem-odd-perfect-number-conjecture">Unsolved Problem: Odd Perfect Number Conjecture</h1>
+<hr>
+<p>Everything discussed thus far has been about <strong>even perfect numbers</strong>, which begs the question:</p>
+<p>💡 Do odd perfect numbers (OPNs) exist?</p>
+<p>Nicomachus, a Greek mathematician, claimed that all perfect numbers must be even around 100 CE.</p>
+<p>Descartes proposed that every even perfect number is of Euclid&rsquo;s form, and stated that he saw no reason why an odd perfect number could not exist in a letter he wrote to Mersenne in 1638. Descartes was one of the first to consider the existence of odd perfect numbers.</p>
+<p>No one has been able to prove or disprove the claim, making this conjecture one of the most ancient unsolved problems in mathematics.</p>
+<p>However, recent progress has been made on disproving the existence of an OPN.</p>
+<ol>
+<li>In 1888, James Sylvester <a href="https://www.emis.de/journals/INTEGERS/papers/d16/d16.pdf" target="_blank" rel="noopener noreffer ">proved</a> that no OPN could be divisible by 105.</li>
+<li>In 1913, Leonard Dickson <a href="https://www.jstor.org/stable/pdf/2370405.pdf" target="_blank" rel="noopener noreffer ">showed</a> that for each fixed natural number <em>k</em>, there are only finitely many odd perfect numbers  $N$ with at most $<em>k</em>$ distinct prime factors.</li>
+<li>In 1953, Touchard <a href="https://www.jstor.org/stable/pdf/3072433.pdf?casa_token=te8ibzqzEtoAAAAA:NU93RfM3P9EqGuzzb_ic4BRoi6j-ZF8Zp91LL3-xDhJZIM_YDSmsE0sfLmVO2OLq-PSEkzt-LktTReJAtfm0l6du0Hx7O7qhf4Fv2Am6kVnHqtWmEDk" target="_blank" rel="noopener noreffer ">showed</a> that if an odd perfect number exists it must be of the form    $12k+1$  or $36k+9$.</li>
+<li>In 2003, Pace Neilson <a href="https://math.byu.edu/~pace/upper_bound_web.pdf" target="_blank" rel="noopener noreffer ">showed</a> that the number of OPNs with <em>k</em> distinct prime factors is finite and that the size of the number must be smaller than  $2^{4^k}$.</li>
+<li><strong>Bounds on number of prime factors:</strong>
+<ol>
+<li><a href="https://en.wikipedia.org/wiki/Carl_Pomerance" target="_blank" rel="noopener noreffer ">Carl Pomerance</a> (1974) proved that an OPN must have at least 7 distinct prime factors (proof <a href="https://math.dartmouth.edu/~carlp/PDF/paper1.pdf" target="_blank" rel="noopener noreffer ">here</a>). He wrote this paper for his dissertation for his PhD from Harvard University.</li>
+<li><a href="https://www.ams.org/journals/mcom/2007-76-260/S0025-5718-07-01990-4/S0025-5718-07-01990-4.pdf" target="_blank" rel="noopener noreffer ">Nielsen (2006)</a> also showed that an OPN has at least 9 distinct prime factors.</li>
+<li><a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.1018&amp;rep=rep1&amp;type=pdf" target="_blank" rel="noopener noreffer ">Hare (2005)</a> has shown that any OPN has 75 or more prime factors.</li>
+<li><a href="https://www.lirmm.fr/~ochem/opn/opn.pdf" target="_blank" rel="noopener noreffer ">Ochem and Rao (2012)</a> subsequently showed that any odd perfect number has at least 101 not necessarily distinct prime factors.</li>
+<li><a href="https://www.ams.org/journals/mcom/2015-84-295/S0025-5718-2015-02941-X/home.html" target="_blank" rel="noopener noreffer ">Nielsen (2015)</a> also showed that an OPN has at least 10 distinct prime factors.</li>
+</ol>
+</li>
+<li><strong>Bounds on prime factors:</strong>
+<ol>
+<li>In 1998, the prime divisor of an OPN was bounded by 1 million by <a href="https://www.ams.org/journals/mcom/1998-67-223/S0025-5718-98-00982-X/S0025-5718-98-00982-X.pdf" target="_blank" rel="noopener noreffer ">Hagis and Cohen in 1998</a>.</li>
+<li>In 2003, Paul Jenkins improved on this by <a href="https://www.ams.org/journals/mcom/2003-72-243/S0025-5718-03-01496-0/S0025-5718-03-01496-0.pdf" target="_blank" rel="noopener noreffer ">proving</a> that it exceeds 10 million.</li>
+<li>In 1999, the second and third largest prime divisors of an OPN were given by <a href="https://www.ams.org/journals/mcom/1999-68-228/S0025-5718-99-01126-6/S0025-5718-99-01126-6.pdf" target="_blank" rel="noopener noreffer ">Douglas Iannucci</a> to be greater than than 10,000 and 100.</li>
+</ol>
+</li>
+<li><strong>Bounds on the OPN</strong>:
+<ol>
+<li>In 1908, Turcaninov proved that an odd perfect number is larger than $2 \times 10^6$</li>
+<li>It was improved to $10^{20}$ by Kanold in 1957,</li>
+<li>&hellip;to $10^{36}$ by <a href="https://www.ams.org/journals/mcom/1973-27-124/S0025-5718-1973-0325506-7/S0025-5718-1973-0325506-7.pdf" target="_blank" rel="noopener noreffer ">Tukerman</a> in 1973</li>
+<li>&hellip;to $10^{50}$ by <a href="https://www.jstor.org/stable/2005530?seq=1#metadata_info_tab_contents" target="_blank" rel="noopener noreffer ">Hagis</a> also in 1973</li>
+<li>Using computers, Brent, Cohen, and te Riele <a href="https://www.jstor.org/stable/2938723?seq=1#metadata_info_tab_contents" target="_blank" rel="noopener noreffer ">showed</a> that it is greater than $10^{300}$ in 1991.</li>
+<li><a href="https://www.lirmm.fr/~ochem/opn/opn.pdf" target="_blank" rel="noopener noreffer ">Ochem and Rao (2012)</a> most recently proved it for $10^{1500}$ and later improved it to $10^{2000}$</li>
+</ol>
+</li>
+</ol>
+<p>With this many limitations, many mathematicians don&rsquo;t think an OPN exists.</p>
+<blockquote>
+<p>A prolonged meditation on the subject has satisfied me that the existence of any one such [odd perfect number]—its escape, so to say, from the complex web of conditions which hem it in on all sides—would be little short of a miracle.</p>
+<p><strong>James Joseph Sylvester</strong>, English Mathematician</p>
+</blockquote>
+<h3 id="opn-spoofs">OPN Spoofs</h3>
+<hr>
+<p>💡 A <strong>spoof</strong> is a number that behaves like an odd perfect number but relaxes some of the rules. The idea is that studying spoofs might lead to more clues as to whether or not OPNs exist.</p>
+<h3 id="descartess-number"><strong>Descartes&rsquo;s Number</strong></h3>
+<p>Descartes was one of the first mathematicians to consider that an odd perfect number might exist. In his search for an OPN, Descartes found a spoof number in 1638. His number was $<strong>198,585,576,189</strong>$.</p>
+<p>$198,585,576,189 = 3^2 × 7^2 × 11^2 × 13^2 × 22,021$</p>
+<p>We can calculate $σ(198,585,576,189)$ using the multiplicity of the sum of divisors function and the sum of divisors for prime powers.</p>
+<p>$= σ(3^2 × 7^2 × 11^2 × 13^2 × 22,021)$</p>
+<p>$= (1 + 3 + 3^2)(1 + 7 + 7^2)(1 + 11 + 11^2)(1 + 13 + 13^2)(1 + 22,021^1)$</p>
+<p>$= 397,171,152,378$</p>
+<p>$= 2 (198,585,576,189)$</p>
+<p>Since the sum of divisors equals twice the original number, this number behaves like an odd perfect number. However, 22,021 is not prime, so this can&rsquo;t be an OPN, but it&rsquo;s close enough to be considered a spoof.</p>
+<h3 id="voights-number"><strong>Voight&rsquo;s Number</strong></h3>
+<p>361 years later, Voight found a second spoof. <a href="https://math.dartmouth.edu/~jvoight/articles/opn-mass-rev-060211.pdf" target="_blank" rel="noopener noreffer ">Voight&rsquo;s spoof</a> was $<strong>−22,017,975,903</strong>$.</p>
+<p>$−22,017,975,903 = 3^4 × 7^2 × 11^2 × 19^2 × (−127)^1$</p>
+<p>$σ(−22,017,975,903)$</p>
+<p>$= σ(3^4 × 7^2 × 11^2 × 19^2 × (−127)^1)$</p>
+<p>$= (1 + 3 + 3^2+ 3^3+ 3^4)(1 + 7 + 7^2)(1 + 11 + 11^2)(1 + 19 + 19^2)(1 + (-127)^1)$</p>
+<p>$= -44,035,951,806$</p>
+<p>$= 2 (−22,017,975,903)$</p>
+<p>This also behaves like an OPN, but $-127$  is negative, which isn&rsquo;t allowed.</p>
+<p>Voight gave a seminar at BYU in December 2016, he discussed this number with Nielsen, Jenkins and other mathematicians who&rsquo;ve made progress on the OPN problem. The BYU team started a systematic, computational search for more spoofs. Their computers would go through options for bases and exponents and check if that would result in a spoof OPN.</p>
+<p>After running 20 parallel processors for 3 years, the team found all possible spoof numbers with factorizations of six or fewer bases — <strong>21 spoofs</strong> altogether, including the Descartes&rsquo;s and Voight&rsquo;s numbers — along with <strong>2 extra spoofs</strong> with seven bases. The spoofs had non-prime bases (like Descartes), negative numbers (like Voight), shared prime factors (like 72 and 75 written separately), or repeats (like 72 and 72 written separately).</p>
+<p>These spoofs followed the rule that for any fixed number of bases, <em>k</em>, there is a finite number of spoofs, which is what Dickson showed is true for OPNs in 1913. They also found that if you let <em>k</em> go to infinity, the number of spoofs goes to infinity too.</p>
+<p><strong>But how will spoofs help with the OPN problem?</strong></p>
+<ul>
+<li>spoof OPNs share all characteristics of an OPN except one</li>
+<li>OPNs must follow all the rules of spoofs plus more restrictions</li>
+<li>if we find a behavior of spoofs that doesn&rsquo;t apply to OPNs, we can say that OPNs don&rsquo;t exist
+<ul>
+<li>ex. if we find that spoofs have to be divisible by 105, then OPNs can&rsquo;t exist because <a href="https://www.emis.de/journals/INTEGERS/papers/d16/d16.pdf" target="_blank" rel="noopener noreffer ">no OPN is divisible by 105</a></li>
+</ul>
+</li>
+</ul>
+<p>However, we haven&rsquo;t found a feature of spoofs that disproves the existence of OPNs yet. Voight himself is not that optimistic: &ldquo;I’m not sure we’re any closer to having a line of attack on the OPN problem. It is indeed a problem for the ages, perhaps it will remain so.”</p>
+<blockquote>
+<p>You have to think about the problem, maybe for a long while, and care about it. We are making progress. We’re chipping away at the mountain. And the hope is that if you keep chipping away, you might eventually find a diamond.</p>
+<p><strong>Pace Neilson</strong>, BYU Math Professor</p>
+</blockquote>
+<h1 id="extras">Extras</h1>
+<p>The above doesn&rsquo;t even come close to summarizing the results that have been proved about perfect numbers. Feel free to check out the proofs and papers below for even more facts about perfect numbers.</p>
+<ul>
+<li>Any even perfect number can be written as the sum of cubes. (<a href="https://math.dartmouth.edu/~jvoight/notes/perfelem.pdf" target="_blank" rel="noopener noreffer ">proof</a>)</li>
+<li>Perfect numbers have interesting binary representations: $6 = 110_2, 28 = 11100_2, 496 = 111110000_2$ written in binary. In general, if even perfect number  $N = 2^{p - 1} \times (2^p - 1)$ is written in base 2, then it has $2n-1$ digits where the first  $n$ are 1 and that last $n-1$ are 0. (<a href="https://math.dartmouth.edu/~jvoight/notes/perfelem.pdf" target="_blank" rel="noopener noreffer ">proof</a>)</li>
+<li>Every even number ends in 6 or 8. (<a href="https://math.dartmouth.edu/~jvoight/notes/perfelem.pdf" target="_blank" rel="noopener noreffer ">proof</a>)</li>
+<li>Terence Tao, one of the world&rsquo;s best mathematicians, published his first paper titled “Perfect Numbers” at the age of 8 in a journal for mathematics in Southern Australia. You can read an annotated version of the paper <a href="https://fermatslibrary.com/s/perfect-numbers" target="_blank" rel="noopener noreffer ">here</a>.</li>
+</ul>
+<h1 id="sources">Sources</h1>
+<ul>
+<li><a href="https://math.dartmouth.edu/~jvoight/notes/perfelem.pdf" target="_blank" rel="noopener noreffer ">Darthmouth&rsquo;s lecture notes on perfect numbers</a></li>
+<li><a href="https://penguinmaths.blogspot.com/2019/07/proof-sum-of-divisors-function-is.html" target="_blank" rel="noopener noreffer ">Penguin math&rsquo;s proof on the sum of divisors multiplicity</a></li>
+<li><a href="https://www.quantamagazine.org/mathematicians-open-a-new-front-on-an-ancient-number-problem-20200910/" target="_blank" rel="noopener noreffer ">Quanta Magazine&rsquo;s article on Professor Nielson&rsquo;s progress on spoof OPNs</a></li>
+<li><a href="https://people.math.harvard.edu/~knill/seminars/perfect/handout.pdf" target="_blank" rel="noopener noreffer ">Harvard&rsquo;s notes on the odd perfect number problem</a></li>
+<li><a href="https://mathworld.wolfram.com/OddPerfectNumber.html" target="_blank" rel="noopener noreffer ">Wolfram&rsquo;s article on OPNs</a></li>
+<li><a href="https://www.emis.de/journals/INTEGERS/papers/d16/d16.pdf" target="_blank" rel="noopener noreffer ">A math journal paper by Gimbel and Jaroma</a></li>
+<li><a href="https://blogs.ams.org/mathgradblog/2013/07/25/odd-perfect-numbers-exist/" target="_blank" rel="noopener noreffer ">American Math Society&rsquo;s article on OPNs</a></li>
+<li><a href="https://www.mersenne.org/" target="_blank" rel="noopener noreffer ">mersenne.org</a> (the search for Mersenne primes continues!)</li>
+</ul>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>Updated on 2021-12-28</span>
+            </div></div>
+        <div class="post-info-line">
+            <div class="post-info-md"></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="Share on Twitter" data-sharer="twitter" data-url="http://example.org/posts/perfect_numbers/" data-title="A Complete Guide to Perfect Numbers" data-via="iamedewan" data-hashtags="math,history"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Facebook" data-sharer="facebook" data-url="http://example.org/posts/perfect_numbers/" data-hashtag="math"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Hacker News" data-sharer="hackernews" data-url="http://example.org/posts/perfect_numbers/" data-title="A Complete Guide to Perfect Numbers"><i class="fab fa-hacker-news fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on Line" data-sharer="line" data-url="http://example.org/posts/perfect_numbers/" data-title="A Complete Guide to Perfect Numbers"><i data-svg-src="https://cdn.jsdelivr.net/npm/simple-icons@7.3.0/icons/line.svg" aria-hidden="true"></i></a><a href="javascript:void(0);" title="Share on 微博" data-sharer="weibo" data-url="http://example.org/posts/perfect_numbers/" data-title="A Complete Guide to Perfect Numbers"><i class="fab fa-weibo fa-fw" aria-hidden="true"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/tags/math/">math</a>,&nbsp;<a href="/tags/history/">history</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">Back</a></span>&nbsp;|&nbsp;<span><a href="/">Home</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav">
+            <a href="/posts/commercial_tech_failures/" class="next" rel="next" title="The Commercial Failure of “Great” Technological Innovations">The Commercial Failure of “Great” Technological Innovations<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+</article></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2023</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Era Dewan</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/copy-tex.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/mhchem.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":50},"comment":{},"math":{"delimiters":[{"display":true,"left":"$$","right":"$$"},{"display":true,"left":"\\[","right":"\\]"},{"display":true,"left":"\\begin{equation}","right":"\\end{equation}"},{"display":true,"left":"\\begin{equation*}","right":"\\end{equation*}"},{"display":true,"left":"\\begin{align}","right":"\\end{align}"},{"display":true,"left":"\\begin{align*}","right":"\\end{align*}"},{"display":true,"left":"\\begin{alignat}","right":"\\end{alignat}"},{"display":true,"left":"\\begin{alignat*}","right":"\\end{alignat*}"},{"display":true,"left":"\\begin{gather}","right":"\\end{gather}"},{"display":true,"left":"\\begin{CD}","right":"\\end{CD}"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"}],"strict":false}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

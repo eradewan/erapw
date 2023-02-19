@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>friendship - Tag - Era Dewan</title>
+        <link>http://example.org/tags/friendship/</link>
+        <description>friendship - Tag - Era Dewan</description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 29 Jul 2022 22:15:04 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/friendship/" rel="self" type="application/rss+xml" /><item>
+    <title>Friendship Is Underrated</title>
+    <link>http://example.org/posts/friendship_underrated/</link>
+    <pubDate>Fri, 29 Jul 2022 22:15:04 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/friendship_underrated/</guid>
+    <description><![CDATA[I feel like we celebrate and appreciate romantic relationships a lot, but friendships are just taken for granted. I think having solid friendships is as important (arguably even more) important than a romantic relationship. They last longer, they’re more stable, and they’re comfortable.
+Good friends support you in a unique, unconditional way. They are reliable and constant. They root for your success in such a healthy way. I don’t know what I’d do without the friends I’ve made throughout my life.]]></description>
+</item>
+</channel>
+</rss>

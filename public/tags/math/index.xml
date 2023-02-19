@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>math - Tag - Era Dewan</title>
+        <link>http://example.org/tags/math/</link>
+        <description>math - Tag - Era Dewan</description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Tue, 28 Dec 2021 21:36:43 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/math/" rel="self" type="application/rss+xml" /><item>
+    <title>A Complete Guide to Perfect Numbers</title>
+    <link>http://example.org/posts/perfect_numbers/</link>
+    <pubDate>Tue, 28 Dec 2021 21:36:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/perfect_numbers/</guid>
+    <description><![CDATA[Note from the author: I was bored during Winter Break 2021, so I just started reading about perfect numbers and compiled everything here. They are pretty cool because there are so many proofs related to them. The idea of studying “spoofs” (closely related numbers but not exactly perfect) is also valuable and could possibly be applied to other areas of study. Otherwise, they are effectively useless!
+One would be hard put to find a set of whole numbers with a more fascinating history and more elegant properties surrounded by greater depths of mystery—and more totally useless—than the perfect numbers.]]></description>
+</item>
+</channel>
+</rss>

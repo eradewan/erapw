@@ -1,0 +1,45 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Era Dewan</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | Era Dewan</description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Wed, 15 Feb 2023 22:22:00 &#43;0100</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Wed, 15 Feb 2023 22:22:00 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[mom, i am a rich man testing testing
+hello world!
+ich spreche deutsch!]]></description>
+</item>
+<item>
+    <title>Friendship Is Underrated</title>
+    <link>http://example.org/posts/friendship_underrated/</link>
+    <pubDate>Fri, 29 Jul 2022 22:15:04 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/friendship_underrated/</guid>
+    <description><![CDATA[I feel like we celebrate and appreciate romantic relationships a lot, but friendships are just taken for granted. I think having solid friendships is as important (arguably even more) important than a romantic relationship. They last longer, they’re more stable, and they’re comfortable.
+Good friends support you in a unique, unconditional way. They are reliable and constant. They root for your success in such a healthy way. I don’t know what I’d do without the friends I’ve made throughout my life.]]></description>
+</item>
+<item>
+    <title>The Commercial Failure of “Great” Technological Innovations</title>
+    <link>http://example.org/posts/commercial_tech_failures/</link>
+    <pubDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/commercial_tech_failures/</guid>
+    <description><![CDATA[Note from the author: This is adapted from MGMT237: Management of Technology Notes. I only wrote about the examples I found interesting. I wrote this during the first week of Spring 2022 semester.
+Why do promising technological innovations fail to create value? The challenge of technology entrepreneurship and firms is not so much coming up with great ideas or recognizing technological trends. The challenge is the commercialization the technology and create unique value for the customer.]]></description>
+</item>
+<item>
+    <title>A Complete Guide to Perfect Numbers</title>
+    <link>http://example.org/posts/perfect_numbers/</link>
+    <pubDate>Tue, 28 Dec 2021 21:36:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/perfect_numbers/</guid>
+    <description><![CDATA[Note from the author: I was bored during Winter Break 2021, so I just started reading about perfect numbers and compiled everything here. They are pretty cool because there are so many proofs related to them. The idea of studying “spoofs” (closely related numbers but not exactly perfect) is also valuable and could possibly be applied to other areas of study. Otherwise, they are effectively useless!
+One would be hard put to find a set of whole numbers with a more fascinating history and more elegant properties surrounded by greater depths of mystery—and more totally useless—than the perfect numbers.]]></description>
+</item>
+</channel>
+</rss>
