@@ -4,14 +4,62 @@
         <link>http://example.org/tags/technology/</link>
         <description>technology - Tag - Era Dewan</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
-            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/technology/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/technology/" rel="self" type="application/rss+xml" /><item>
+    <title>Fall Break In Review: Boston and MIT</title>
+    <link>http://example.org/posts/boston_review/</link>
+    <pubDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/boston_review/</guid>
+    <description><![CDATA[I wrote some random reflections and some observations of my time at MIT on the plane back from Boston. I was only there for 3 days, so these are first impressions.
+me and kathy MIT Culture Good things The MIT vocabulary goes strong: psets, hosed, numbers for everything (majors &amp; buildings). You know a culture is strong when conversations are complete gibberish to people outside. It’s so funny to see the same things at your university but branded slightly different (MIT Police, MIT Hillel, MIT SAAS, etc).]]></description>
+</item>
+<item>
+    <title>The Intersection of Management and Technology</title>
+    <link>http://example.org/posts/intersection_m_t/</link>
+    <pubDate>Sat, 03 Sep 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/intersection_m_t/</guid>
+    <description><![CDATA[Ignore the cringe title, but I noticed a similarity in FNCE207 (Corporate Valuations) and CIS320 (Algorithms) during the first week of school.
+FNCE207: Creating a Distinctive Advantage Through Choice In 207, we were talking about creating a distinctive advantage through choice. The case study was about how parents are skipping proper car seats in ride-shares like Uber.
+🎯 The question was: should Uber invest to install car seats in cars?]]></description>
+</item>
+<item>
+    <title>Big Tech vs. Quant</title>
+    <link>http://example.org/posts/big_tech_quant/</link>
+    <pubDate>Tue, 02 Aug 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/big_tech_quant/</guid>
+    <description><![CDATA[Disclaimer: This is a (very uninformed) comparison between work life and ideology at big tech and quant companies. I don’t actually know how anything works. My sources are me, my twin brother, and a Jane Street recruiting event I went to. My Google mentor seemed to agreed with me.
+All the CS majors are having an existential crisis on whether to do quant or big tech. Which one is better?]]></description>
+</item>
+<item>
+    <title>YAGNI but for life</title>
+    <link>http://example.org/posts/yagni/</link>
+    <pubDate>Thu, 07 Jul 2022 22:22:00 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/yagni/</guid>
+    <description><![CDATA[One of the many random acronyms that I learned this summer was YAGNI.
+💡 YAGNI: “You aren’t gonna need it”
+It’s used to describe features that aren’t really necessary for the product. You can add it if you want, but it’s not required. Honestly, my first thought after learning about YAGNI is that people need to use this more in daily life than for software development. We should question anything think we MUST do and NEED to have and SHOULD attend.]]></description>
+</item>
+<item>
+    <title>Gloyo! (Google vs. TikTok)</title>
+    <link>http://example.org/posts/gloyo/</link>
+    <pubDate>Thu, 07 Jul 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/gloyo/</guid>
+    <description><![CDATA[Apparently, Google has reason to be concerned about TikTok. It’s pretty clear why Facebook feels threatened, but Google seems fine. Google+ died a long time ago.
+Who is gloyo? Google is worried about “gloyo,” which refers to global youth (defined as everyone under the age of 24). Gloyo is switching to TikTok to search for things like trends, travel, recipes, and instructions. Gloyo isn’t “excited” about Google search in the way that they are about TikTok.]]></description>
+</item>
+<item>
     <title>The Commercial Failure of “Great” Technological Innovations</title>
     <link>http://example.org/posts/commercial_tech_failures/</link>
     <pubDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</pubDate>
     <author>Era Dewan</author>
     <guid>http://example.org/posts/commercial_tech_failures/</guid>
-    <description><![CDATA[Note from the author: This is adapted from MGMT237: Management of Technology Notes. I only wrote about the examples I found interesting. I wrote this during the first week of Spring 2022 semester.
-Why do promising technological innovations fail to create value? The challenge of technology entrepreneurship and firms is not so much coming up with great ideas or recognizing technological trends. The challenge is the commercialization the technology and create unique value for the customer.]]></description>
+    <description><![CDATA[Note from the author: This is adapted from MGMT237: Management of Technology Notes. I wrote this during the first week of Spring 2022 semester.
+Why do promising technological innovations fail to create value? The challenge of technology entrepreneurship and firms is not so much coming up with great ideas or recognizing technological trends. The challenge is the commercialization the technology and create unique value for the customer.
+Below are the stories of great ideas and technologies failed commercially.]]></description>
 </item>
 </channel>
 </rss>

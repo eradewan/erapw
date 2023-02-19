@@ -4,7 +4,25 @@
         <link>http://example.org/tags/humans/</link>
         <description>humans - Tag - Era Dewan</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
-            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 29 Jul 2022 22:15:04 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/humans/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/humans/" rel="self" type="application/rss+xml" /><item>
+    <title>Authors @ Wharton Reflection: Annie Duke</title>
+    <link>http://example.org/posts/annie_duke/</link>
+    <pubDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/annie_duke/</guid>
+    <description><![CDATA[Annie Duke, the author of Quit and award winning poker player, came to Wharton to talk about quitting. She used poker as an analogy for making quitting decisions. The best poker players aren’t the ones who know what hand to play, they’re the ones that know when to fold.
+Quit Framework Should I quit? I’ve faced this dilemma a lot. Annie Duke gives a framework to tackle this. Grit is sticking to hard things that are worthwhile.]]></description>
+</item>
+<item>
+    <title>Fall Break In Review: Boston and MIT</title>
+    <link>http://example.org/posts/boston_review/</link>
+    <pubDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/boston_review/</guid>
+    <description><![CDATA[I wrote some random reflections and some observations of my time at MIT on the plane back from Boston. I was only there for 3 days, so these are first impressions.
+me and kathy MIT Culture Good things The MIT vocabulary goes strong: psets, hosed, numbers for everything (majors &amp; buildings). You know a culture is strong when conversations are complete gibberish to people outside. It’s so funny to see the same things at your university but branded slightly different (MIT Police, MIT Hillel, MIT SAAS, etc).]]></description>
+</item>
+<item>
     <title>Friendship Is Underrated</title>
     <link>http://example.org/posts/friendship_underrated/</link>
     <pubDate>Fri, 29 Jul 2022 22:15:04 &#43;0100</pubDate>
@@ -12,6 +30,25 @@
     <guid>http://example.org/posts/friendship_underrated/</guid>
     <description><![CDATA[I feel like we celebrate and appreciate romantic relationships a lot, but friendships are just taken for granted. I think having solid friendships is as important (arguably even more) important than a romantic relationship. They last longer, they’re more stable, and they’re comfortable.
 Good friends support you in a unique, unconditional way. They are reliable and constant. They root for your success in such a healthy way. I don’t know what I’d do without the friends I’ve made throughout my life.]]></description>
+</item>
+<item>
+    <title>My Favorite Animated Short Films</title>
+    <link>http://example.org/posts/animated_short_films/</link>
+    <pubDate>Mon, 11 Jul 2022 16:22:35 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/animated_short_films/</guid>
+    <description><![CDATA[I been watching these short animated videos on YouTube. Many of them are silent (no dialogue). They’re so well-made. Some made me cry. Some are more creepy, dystopian vibes with social commentary. It’s a whole movie experience in under 10 minutes.
+Made me cry One Small Step (appreciate your silent supporters) ***hella tears Umbrella (have empathy for others) Let’s Eat (Asian mother and daughter relationship) Hair Love (family) WiNDUP (hospitalization) First Born (siblings) Dystopian Best Friend (addicted to a virtual friends product, themes of loneliness &amp; addiction) ***only 5 minutes but 10/10 impact Less Than Human (zombies but it’s cute) Funny Yes-People (different meanings of “yes”) Alarm All You Can Eat Misc The Twins Destiny ]]></description>
+</item>
+<item>
+    <title>YAGNI but for life</title>
+    <link>http://example.org/posts/yagni/</link>
+    <pubDate>Thu, 07 Jul 2022 22:22:00 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/yagni/</guid>
+    <description><![CDATA[One of the many random acronyms that I learned this summer was YAGNI.
+💡 YAGNI: “You aren’t gonna need it”
+It’s used to describe features that aren’t really necessary for the product. You can add it if you want, but it’s not required. Honestly, my first thought after learning about YAGNI is that people need to use this more in daily life than for software development. We should question anything think we MUST do and NEED to have and SHOULD attend.]]></description>
 </item>
 </channel>
 </rss>

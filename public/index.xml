@@ -2,19 +2,65 @@
     <channel>
         <title>Era Dewan</title>
         <link>http://example.org/</link>
-        <description>This is </description>
+        <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
-            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Wed, 15 Feb 2023 22:22:00 &#43;0100</lastBuildDate>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 02 Dec 2022 15:35:08 &#43;0100</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Hello</title>
-    <link>http://example.org/posts/first_post/</link>
-    <pubDate>Wed, 15 Feb 2023 22:22:00 &#43;0100</pubDate>
+    <title>The Endless Expectations Treadmill</title>
+    <link>http://example.org/posts/expectations_treadmill/</link>
+    <pubDate>Fri, 02 Dec 2022 15:35:08 &#43;0100</pubDate>
     <author>Era Dewan</author>
-    <guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[mom, i am a rich man testing testing
-hello world!
-ich spreche deutsch!]]></description>
+    <guid>http://example.org/posts/expectations_treadmill/</guid>
+    <description><![CDATA[The Expectations Treadmill illustrates the high performance expectations built into a company&rsquo;s share price. On a broader level, it represents the ongoing race we have to continuously improve. Is this the game we want to play?
+What is the Expectations Treadmill? In class, we did an exercise on calculating total shareholder value based on the performance of a company. The take away was that the value isn’t even based on the performance.]]></description>
+</item>
+<item>
+    <title>Authors @ Wharton Reflection: Annie Duke</title>
+    <link>http://example.org/posts/annie_duke/</link>
+    <pubDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/annie_duke/</guid>
+    <description><![CDATA[Annie Duke, the author of Quit and award winning poker player, came to Wharton to talk about quitting. She used poker as an analogy for making quitting decisions. The best poker players aren’t the ones who know what hand to play, they’re the ones that know when to fold.
+Quit Framework Should I quit? I’ve faced this dilemma a lot. Annie Duke gives a framework to tackle this. Grit is sticking to hard things that are worthwhile.]]></description>
+</item>
+<item>
+    <title>Fall Break In Review: Boston and MIT</title>
+    <link>http://example.org/posts/boston_review/</link>
+    <pubDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/boston_review/</guid>
+    <description><![CDATA[I wrote some random reflections and some observations of my time at MIT on the plane back from Boston. I was only there for 3 days, so these are first impressions.
+me and kathy MIT Culture Good things The MIT vocabulary goes strong: psets, hosed, numbers for everything (majors &amp; buildings). You know a culture is strong when conversations are complete gibberish to people outside. It’s so funny to see the same things at your university but branded slightly different (MIT Police, MIT Hillel, MIT SAAS, etc).]]></description>
+</item>
+<item>
+    <title>Playing to Win, Play, or Survive</title>
+    <link>http://example.org/posts/play_to_win/</link>
+    <pubDate>Mon, 24 Oct 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/play_to_win/</guid>
+    <description><![CDATA[Leadership Culture: How do you play? In Corporate Valuations, we went over three philosophies to lead by: play to win, play for the sake of playing, play to survive.
+It reminded me of a question that someone asked at a forum:
+❓ For the last few years we (Google) seems to be playing catch, be it on YouTube (catching up to TikTok) or Cloud (AWS/Azure) or Pixel / Wearables (Apple) and as we do that we are losing ground to new innovations.]]></description>
+</item>
+<item>
+    <title>The Intersection of Management and Technology</title>
+    <link>http://example.org/posts/intersection_m_t/</link>
+    <pubDate>Sat, 03 Sep 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/intersection_m_t/</guid>
+    <description><![CDATA[Ignore the cringe title, but I noticed a similarity in FNCE207 (Corporate Valuations) and CIS320 (Algorithms) during the first week of school.
+FNCE207: Creating a Distinctive Advantage Through Choice In 207, we were talking about creating a distinctive advantage through choice. The case study was about how parents are skipping proper car seats in ride-shares like Uber.
+🎯 The question was: should Uber invest to install car seats in cars?]]></description>
+</item>
+<item>
+    <title>Big Tech vs. Quant</title>
+    <link>http://example.org/posts/big_tech_quant/</link>
+    <pubDate>Tue, 02 Aug 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/big_tech_quant/</guid>
+    <description><![CDATA[Disclaimer: This is a (very uninformed) comparison between work life and ideology at big tech and quant companies. I don’t actually know how anything works. My sources are me, my twin brother, and a Jane Street recruiting event I went to. My Google mentor seemed to agreed with me.
+All the CS majors are having an existential crisis on whether to do quant or big tech. Which one is better?]]></description>
 </item>
 <item>
     <title>Friendship Is Underrated</title>
@@ -26,22 +72,32 @@ ich spreche deutsch!]]></description>
 Good friends support you in a unique, unconditional way. They are reliable and constant. They root for your success in such a healthy way. I don’t know what I’d do without the friends I’ve made throughout my life.]]></description>
 </item>
 <item>
-    <title>The Commercial Failure of “Great” Technological Innovations</title>
-    <link>http://example.org/posts/commercial_tech_failures/</link>
-    <pubDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</pubDate>
+    <title>My Favorite Animated Short Films</title>
+    <link>http://example.org/posts/animated_short_films/</link>
+    <pubDate>Mon, 11 Jul 2022 16:22:35 &#43;0100</pubDate>
     <author>Era Dewan</author>
-    <guid>http://example.org/posts/commercial_tech_failures/</guid>
-    <description><![CDATA[Note from the author: This is adapted from MGMT237: Management of Technology Notes. I only wrote about the examples I found interesting. I wrote this during the first week of Spring 2022 semester.
-Why do promising technological innovations fail to create value? The challenge of technology entrepreneurship and firms is not so much coming up with great ideas or recognizing technological trends. The challenge is the commercialization the technology and create unique value for the customer.]]></description>
+    <guid>http://example.org/posts/animated_short_films/</guid>
+    <description><![CDATA[I been watching these short animated videos on YouTube. Many of them are silent (no dialogue). They’re so well-made. Some made me cry. Some are more creepy, dystopian vibes with social commentary. It’s a whole movie experience in under 10 minutes.
+Made me cry One Small Step (appreciate your silent supporters) ***hella tears Umbrella (have empathy for others) Let’s Eat (Asian mother and daughter relationship) Hair Love (family) WiNDUP (hospitalization) First Born (siblings) Dystopian Best Friend (addicted to a virtual friends product, themes of loneliness &amp; addiction) ***only 5 minutes but 10/10 impact Less Than Human (zombies but it’s cute) Funny Yes-People (different meanings of “yes”) Alarm All You Can Eat Misc The Twins Destiny ]]></description>
 </item>
 <item>
-    <title>A Complete Guide to Perfect Numbers</title>
-    <link>http://example.org/posts/perfect_numbers/</link>
-    <pubDate>Tue, 28 Dec 2021 21:36:43 &#43;0100</pubDate>
+    <title>YAGNI but for life</title>
+    <link>http://example.org/posts/yagni/</link>
+    <pubDate>Thu, 07 Jul 2022 22:22:00 &#43;0100</pubDate>
     <author>Era Dewan</author>
-    <guid>http://example.org/posts/perfect_numbers/</guid>
-    <description><![CDATA[Note from the author: I was bored during Winter Break 2021, so I just started reading about perfect numbers and compiled everything here. They are pretty cool because there are so many proofs related to them. The idea of studying “spoofs” (closely related numbers but not exactly perfect) is also valuable and could possibly be applied to other areas of study. Otherwise, they are effectively useless!
-One would be hard put to find a set of whole numbers with a more fascinating history and more elegant properties surrounded by greater depths of mystery—and more totally useless—than the perfect numbers.]]></description>
+    <guid>http://example.org/posts/yagni/</guid>
+    <description><![CDATA[One of the many random acronyms that I learned this summer was YAGNI.
+💡 YAGNI: “You aren’t gonna need it”
+It’s used to describe features that aren’t really necessary for the product. You can add it if you want, but it’s not required. Honestly, my first thought after learning about YAGNI is that people need to use this more in daily life than for software development. We should question anything think we MUST do and NEED to have and SHOULD attend.]]></description>
+</item>
+<item>
+    <title>Gloyo! (Google vs. TikTok)</title>
+    <link>http://example.org/posts/gloyo/</link>
+    <pubDate>Thu, 07 Jul 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/gloyo/</guid>
+    <description><![CDATA[Apparently, Google has reason to be concerned about TikTok. It’s pretty clear why Facebook feels threatened, but Google seems fine. Google+ died a long time ago.
+Who is gloyo? Google is worried about “gloyo,” which refers to global youth (defined as everyone under the age of 24). Gloyo is switching to TikTok to search for things like trends, travel, recipes, and instructions. Gloyo isn’t “excited” about Google search in the way that they are about TikTok.]]></description>
 </item>
 </channel>
 </rss>

@@ -4,12 +4,36 @@
         <link>http://example.org/tags/</link>
         <description>Tags - Tag - Era Dewan</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
-            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Wed, 15 Feb 2023 22:22:00 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>emoji</title>
-    <link>http://example.org/tags/emoji/</link>
-    <pubDate>Wed, 15 Feb 2023 22:22:00 &#43;0100</pubDate>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 02 Dec 2022 15:35:08 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>business</title>
+    <link>http://example.org/tags/business/</link>
+    <pubDate>Fri, 02 Dec 2022 15:35:08 &#43;0100</pubDate>
     <author>Era Dewan</author>
-    <guid>http://example.org/tags/emoji/</guid>
+    <guid>http://example.org/tags/business/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>city</title>
+    <link>http://example.org/tags/city/</link>
+    <pubDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/tags/city/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>humans</title>
+    <link>http://example.org/tags/humans/</link>
+    <pubDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/tags/humans/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>technology</title>
+    <link>http://example.org/tags/technology/</link>
+    <pubDate>Fri, 04 Nov 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/tags/technology/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
@@ -21,27 +45,11 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>humans</title>
-    <link>http://example.org/tags/humans/</link>
-    <pubDate>Fri, 29 Jul 2022 22:15:04 &#43;0100</pubDate>
+    <title>film</title>
+    <link>http://example.org/tags/film/</link>
+    <pubDate>Mon, 11 Jul 2022 16:22:35 &#43;0100</pubDate>
     <author>Era Dewan</author>
-    <guid>http://example.org/tags/humans/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>business</title>
-    <link>http://example.org/tags/business/</link>
-    <pubDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</pubDate>
-    <author>Era Dewan</author>
-    <guid>http://example.org/tags/business/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>technology</title>
-    <link>http://example.org/tags/technology/</link>
-    <pubDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</pubDate>
-    <author>Era Dewan</author>
-    <guid>http://example.org/tags/technology/</guid>
+    <guid>http://example.org/tags/film/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>

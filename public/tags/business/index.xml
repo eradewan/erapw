@@ -4,14 +4,62 @@
         <link>http://example.org/tags/business/</link>
         <description>business - Tag - Era Dewan</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
-            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/business/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 02 Dec 2022 15:35:08 &#43;0100</lastBuildDate><atom:link href="http://example.org/tags/business/" rel="self" type="application/rss+xml" /><item>
+    <title>The Endless Expectations Treadmill</title>
+    <link>http://example.org/posts/expectations_treadmill/</link>
+    <pubDate>Fri, 02 Dec 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/expectations_treadmill/</guid>
+    <description><![CDATA[The Expectations Treadmill illustrates the high performance expectations built into a company&rsquo;s share price. On a broader level, it represents the ongoing race we have to continuously improve. Is this the game we want to play?
+What is the Expectations Treadmill? In class, we did an exercise on calculating total shareholder value based on the performance of a company. The take away was that the value isn’t even based on the performance.]]></description>
+</item>
+<item>
+    <title>Playing to Win, Play, or Survive</title>
+    <link>http://example.org/posts/play_to_win/</link>
+    <pubDate>Mon, 24 Oct 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/play_to_win/</guid>
+    <description><![CDATA[Leadership Culture: How do you play? In Corporate Valuations, we went over three philosophies to lead by: play to win, play for the sake of playing, play to survive.
+It reminded me of a question that someone asked at a forum:
+❓ For the last few years we (Google) seems to be playing catch, be it on YouTube (catching up to TikTok) or Cloud (AWS/Azure) or Pixel / Wearables (Apple) and as we do that we are losing ground to new innovations.]]></description>
+</item>
+<item>
+    <title>The Intersection of Management and Technology</title>
+    <link>http://example.org/posts/intersection_m_t/</link>
+    <pubDate>Sat, 03 Sep 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/intersection_m_t/</guid>
+    <description><![CDATA[Ignore the cringe title, but I noticed a similarity in FNCE207 (Corporate Valuations) and CIS320 (Algorithms) during the first week of school.
+FNCE207: Creating a Distinctive Advantage Through Choice In 207, we were talking about creating a distinctive advantage through choice. The case study was about how parents are skipping proper car seats in ride-shares like Uber.
+🎯 The question was: should Uber invest to install car seats in cars?]]></description>
+</item>
+<item>
+    <title>Big Tech vs. Quant</title>
+    <link>http://example.org/posts/big_tech_quant/</link>
+    <pubDate>Tue, 02 Aug 2022 16:28:43 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/big_tech_quant/</guid>
+    <description><![CDATA[Disclaimer: This is a (very uninformed) comparison between work life and ideology at big tech and quant companies. I don’t actually know how anything works. My sources are me, my twin brother, and a Jane Street recruiting event I went to. My Google mentor seemed to agreed with me.
+All the CS majors are having an existential crisis on whether to do quant or big tech. Which one is better?]]></description>
+</item>
+<item>
+    <title>Gloyo! (Google vs. TikTok)</title>
+    <link>http://example.org/posts/gloyo/</link>
+    <pubDate>Thu, 07 Jul 2022 15:35:08 &#43;0100</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/gloyo/</guid>
+    <description><![CDATA[Apparently, Google has reason to be concerned about TikTok. It’s pretty clear why Facebook feels threatened, but Google seems fine. Google+ died a long time ago.
+Who is gloyo? Google is worried about “gloyo,” which refers to global youth (defined as everyone under the age of 24). Gloyo is switching to TikTok to search for things like trends, travel, recipes, and instructions. Gloyo isn’t “excited” about Google search in the way that they are about TikTok.]]></description>
+</item>
+<item>
     <title>The Commercial Failure of “Great” Technological Innovations</title>
     <link>http://example.org/posts/commercial_tech_failures/</link>
     <pubDate>Mon, 17 Jan 2022 21:48:05 &#43;0100</pubDate>
     <author>Era Dewan</author>
     <guid>http://example.org/posts/commercial_tech_failures/</guid>
-    <description><![CDATA[Note from the author: This is adapted from MGMT237: Management of Technology Notes. I only wrote about the examples I found interesting. I wrote this during the first week of Spring 2022 semester.
-Why do promising technological innovations fail to create value? The challenge of technology entrepreneurship and firms is not so much coming up with great ideas or recognizing technological trends. The challenge is the commercialization the technology and create unique value for the customer.]]></description>
+    <description><![CDATA[Note from the author: This is adapted from MGMT237: Management of Technology Notes. I wrote this during the first week of Spring 2022 semester.
+Why do promising technological innovations fail to create value? The challenge of technology entrepreneurship and firms is not so much coming up with great ideas or recognizing technological trends. The challenge is the commercialization the technology and create unique value for the customer.
+Below are the stories of great ideas and technologies failed commercially.]]></description>
 </item>
 </channel>
 </rss>
