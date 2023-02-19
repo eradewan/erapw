@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>http://example.org/about/</loc><lastmod>2023-02-16T23:19:55&#43;01:00</lastmod></url><url>
             <loc>http://example.org/tags/business/</loc><lastmod>2022-12-02T15:35:08&#43;01:00</lastmod></url><url>
             <loc>http://example.org/</loc><lastmod>2022-12-02T15:35:08&#43;01:00</lastmod></url><url>
             <loc>http://example.org/posts/</loc><lastmod>2022-12-02T15:35:08&#43;01:00</lastmod></url><url>
@@ -14,9 +15,12 @@
             <loc>http://example.org/tags/technology/</loc><lastmod>2022-11-04T16:28:43&#43;01:00</lastmod></url><url>
             <loc>http://example.org/posts/play_to_win/</loc><lastmod>2022-10-24T15:35:08&#43;01:00</lastmod></url><url>
             <loc>http://example.org/posts/intersection_m_t/</loc><lastmod>2022-09-03T15:35:08&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/tags/intern/</loc><lastmod>2022-08-17T15:35:08&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/posts/google_summer_review/</loc><lastmod>2022-08-17T15:35:08&#43;01:00</lastmod></url><url>
             <loc>http://example.org/posts/big_tech_quant/</loc><lastmod>2022-08-02T16:28:43&#43;01:00</lastmod></url><url>
             <loc>http://example.org/tags/friendship/</loc><lastmod>2022-07-29T22:15:04&#43;01:00</lastmod></url><url>
             <loc>http://example.org/posts/friendship_underrated/</loc><lastmod>2022-07-29T22:15:04&#43;01:00</lastmod></url><url>
+            <loc>http://example.org/posts/silicon_valley_culture/</loc><lastmod>2022-07-15T16:28:43&#43;01:00</lastmod></url><url>
             <loc>http://example.org/tags/film/</loc><lastmod>2022-07-11T16:22:35&#43;01:00</lastmod></url><url>
             <loc>http://example.org/posts/animated_short_films/</loc><lastmod>2022-07-11T16:22:35&#43;01:00</lastmod></url><url>
             <loc>http://example.org/posts/yagni/</loc><lastmod>2022-07-07T22:22:00&#43;01:00</lastmod></url><url>
