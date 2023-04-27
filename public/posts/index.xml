@@ -4,7 +4,15 @@
         <link>http://example.org/posts/</link>
         <description>All Posts | Era Dewan</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>dewanera@gmail.com (Era Dewan)</managingEditor>
-            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 02 Dec 2022 15:35:08 &#43;0100</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>dewanera@gmail.com (Era Dewan)</webMaster><lastBuildDate>Fri, 28 Apr 2023 01:15:42 &#43;0200</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My Lessons Learned from Girl Scouts</title>
+    <link>http://example.org/posts/gs_lessons/</link>
+    <pubDate>Fri, 28 Apr 2023 01:15:42 &#43;0200</pubDate>
+    <author>Era Dewan</author>
+    <guid>http://example.org/posts/gs_lessons/</guid>
+    <description><![CDATA[I recently listened to Freakonomics episode “The Economics of Everyday Things: Girl Scout Cookies,” and it was crazy to listen to everything I’ve experienced as a podcast story. It was funny to me to hear the stories because the Girl Scout experience is truly universal. The “Cookie Mom” who kept the inventory, the competitive nature of cookie selling, watching people avoid eye contact when they exit a Safeway. I was a Girl Scout for 10 years, so I’ve experienced all of the above.]]></description>
+</item>
+<item>
     <title>The Endless Expectations Treadmill</title>
     <link>http://example.org/posts/expectations_treadmill/</link>
     <pubDate>Fri, 02 Dec 2022 15:35:08 &#43;0100</pubDate>
@@ -39,7 +47,7 @@ me and kathy MIT Culture Good things The MIT vocabulary goes strong: psets, hose
     <guid>http://example.org/posts/play_to_win/</guid>
     <description><![CDATA[Leadership Culture: How do you play? In Corporate Valuations, we went over three philosophies to lead by: play to win, play for the sake of playing, play to survive.
 It reminded me of a question that someone asked at a forum:
-❓ For the last few years we (Google) seems to be playing catch, be it on YouTube (catching up to TikTok) or Cloud (AWS/Azure) or Pixel / Wearables (Apple) and as we do that we are losing ground to new innovations.]]></description>
+❓ For the last few years Google seems to be playing catch, be it on YouTube (catching up to TikTok) or Cloud (AWS/Azure) or Pixel / Wearables (Apple) and as we do that we are losing ground to new innovations.]]></description>
 </item>
 <item>
     <title>The Intersection of Management and Technology</title>
@@ -87,15 +95,6 @@ Made me cry One Small Step (appreciate your silent supporters) ***hella tears Um
     <description><![CDATA[One of the many random acronyms that I learned this summer was YAGNI.
 💡 YAGNI: “You aren’t gonna need it”
 It’s used to describe features that aren’t really necessary for the product. You can add it if you want, but it’s not required. Honestly, my first thought after learning about YAGNI is that people need to use this more in daily life than for software development. We should question anything think we MUST do and NEED to have and SHOULD attend.]]></description>
-</item>
-<item>
-    <title>Gloyo! (Google vs. TikTok)</title>
-    <link>http://example.org/posts/gloyo/</link>
-    <pubDate>Thu, 07 Jul 2022 15:35:08 &#43;0100</pubDate>
-    <author>Era Dewan</author>
-    <guid>http://example.org/posts/gloyo/</guid>
-    <description><![CDATA[Apparently, Google has reason to be concerned about TikTok. It’s pretty clear why Facebook feels threatened, but Google seems fine. Google+ died a long time ago.
-Who is gloyo? Google is worried about “gloyo,” which refers to global youth (defined as everyone under the age of 24). Gloyo is switching to TikTok to search for things like trends, travel, recipes, and instructions. Gloyo isn’t “excited” about Google search in the way that they are about TikTok.]]></description>
 </item>
 </channel>
 </rss>

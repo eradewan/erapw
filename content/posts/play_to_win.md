@@ -16,7 +16,7 @@ In Corporate Valuations, we went over three philosophies to lead by: play to win
 It reminded me of a question that someone asked at a forum:
 
 
-> ❓ For the last few years we (Google) seems to be playing catch, be it on YouTube (catching up to TikTok) or Cloud (AWS/Azure) or Pixel / Wearables (Apple) and as  we do that we are losing ground to new innovations. What is our strategy to go 
+> ❓ For the last few years Google seems to be playing catch, be it on YouTube (catching up to TikTok) or Cloud (AWS/Azure) or Pixel / Wearables (Apple) and as  we do that we are losing ground to new innovations. What is our strategy to go 
 > back to innovation culture and lead from front vs playing defense?
 
 
