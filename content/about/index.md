@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## era
-Hi! I'm Era. I’m currently a junior at the University of Pennsylvania studying computer science and business in the Management and Technology Program. Right now, I'm studying abroad at ETH in Zurich, Switzerland. I’m interested in pure math (and its history), computer science theory, and technology start-ups. 
+Hi! I'm Era. I’m currently a junior at the University of Pennsylvania studying computer science and business in the Management and Technology Program. Right now, I'm studying abroad at ETH in Zurich, Switzerland. I’m interested in pure math (and its history), computer science theory, and technology start-ups.  
 
 ## random
 :fountain_pen: My favorite quote and life motto: "Mom, I am a rich man."  - Cher
