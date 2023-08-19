@@ -1,7 +1,7 @@
 ---
 title: "Big Tech vs. Quant"
 date: 2022-08-02T16:28:43+01:00
-draft: false
+draft: true
 tags : [
     "technology",
     "business",
