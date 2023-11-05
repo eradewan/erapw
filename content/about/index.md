@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-02-16T23:19:55+01:00
-draft: true
+draft: false
 ---
 
 ## era
@@ -16,9 +16,3 @@ Hi! I'm Era. I’m currently a senior at the University of Pennsylvania studying
 
 ## contact
 You can email me at edewan@wharton.upenn.edu. 
-
-## many things 
-coming soon :0
-
-
-
