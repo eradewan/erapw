@@ -8,7 +8,7 @@ draft: true
 Hi! I'm Era. I’m currently a senior at the University of Pennsylvania studying computer science and management in the Management and Technology Program. I’m interested in pure math (and its history), computer science theory, and technology start-ups.  
 
 ## random
-:fountain_pen: My favorite quote and life motto: "Mom, I am a rich man."  - Cher
+:fountain_pen: My life motto: "Mom, I am a rich man."  - Cher
 
 :dog: My dog: [@living.like.molly](https://www.instagram.com/living.like.molly/) on Instagram
 
